@@ -13,4 +13,5 @@ name = "strace-bpf"
 [dependencies]
 libbpf-rs = "0.24.8"
 libbpf-cargo = "0.24.8"
+sysnames = "0.1.3"
 
